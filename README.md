@@ -1,2 +1,2 @@
 # GoBasic
-folder contains basic go codes
+folder contains one Go Program to learn majority of Go functionality 
